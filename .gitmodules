@@ -1,3 +1,3 @@
 [submodule "themes/atilla"]
-	path = themes/atilla
+	path = site/themes/atilla
 	url = https://github.com/vseventer/hugo-theme-attila
