@@ -1,0 +1,7 @@
+baseURL = "https://theblue.dev"
+languageCode = "en-us"
+title = "Mark Bluemer"
+theme = "atilla"
+
+[params]
+description = "A collection of semi-coherent thoughts"
