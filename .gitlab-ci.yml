@@ -21,7 +21,7 @@ cdk-deploy:
   dependencies:
     - hugo-build
   script:
+    - poetry config virtualenvs.create false
     - poetry install
-    - poetry shell
     - cdk deploy Blog --require-approval never
 
