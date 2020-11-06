@@ -4,8 +4,9 @@ stages:
   - deploy
 
 hugo-build:
-  image: klakegg/hugo:latest
-  entrypoint: [""] # https://github.com/klakegg/docker-hugo/issues/13
+  image:
+    name: klakegg/hugo:latest
+    entrypoint: [""] # https://github.com/klakegg/docker-hugo/issues/13
   stage: build
   script:
     - cd site
