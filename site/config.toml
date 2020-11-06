@@ -1,6 +1,6 @@
-baseURL = "https://theblue.dev"
+baseURL = ""
 languageCode = "en-us"
-title = "Mark Bluemer"
+title = "Mark Bluemer Test"
 theme = "atilla"
 
 [params]

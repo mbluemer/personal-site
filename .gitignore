@@ -7,6 +7,7 @@ cdk.out
 
 # Hugo generated files
 site/public
+site/resources/_gen
 
 # Python Distribution / packaging
 .Python
