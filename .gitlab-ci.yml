@@ -4,7 +4,7 @@ stages:
   - deploy
 
 hugo-build:
-  image: klakegg/hugo:alpine
+  image: klakegg/hugo:latest
   stage: build
   script:
     - cd site
