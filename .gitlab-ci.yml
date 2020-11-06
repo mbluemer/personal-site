@@ -16,10 +16,11 @@ hugo-build:
       - site/public/
 
 cdk-deploy:
-  image: klakegg/cdk:latest
+  image: mbluemer/aws-cdk:latest
   stage: deploy
   dependencies:
     - hugo-build
   script:
+    - poetry install
     - cdk deploy Blog --require-approval never
 
