@@ -1,0 +1,23 @@
+
+stages:
+  - build
+  - deploy
+
+hugo-build:
+  image: klakegg/hugo:alpine
+  stage: build
+  script:
+    - cd site
+    - hugo
+  artifacts:
+    paths:
+      - site/public/
+
+cdk-deploy:
+  image: klakegg/cdk:latest
+  stage: deploy
+  dependencies:
+    - hugo-build
+  script:
+    - cdk deploy Blog --require-approval never
+
