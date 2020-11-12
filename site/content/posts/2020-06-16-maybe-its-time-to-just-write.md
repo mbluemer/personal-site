@@ -4,6 +4,8 @@ slug: maybe-its-time-to-just-write
 date: 2020-06-16T15:53:34.000Z
 ---
 
+__(11/12/2020) Update: As can be seen from the rest of my blog this plan obviously didn't work out. While part of me wants nothing more than to erase this post from my history I'm going to leave it here as a reminder. Who knows, maybe one day I'll actually write those 100 posts.__
+
 At the beginning of the year, as a card-carrying member of the religion of New Years Resolutions, I set out some goals for myself, head high and future bright. As part of an effort to work on my writing and overall communication I set a goal to write 12 blog posts, one each month. Only one. That doesn't include any requirements on length of substance either. And yet, like many of my fellow zealots I've found myself falling quite short of that particular goal.
 
 Instead of giving up on that goal I've decided to be flexible and modify it. Not just that, I'm going to double down. The original goal was to "write a single blog post every month", which means, in the literal sense, I've already failed. My new goal is going to be:
