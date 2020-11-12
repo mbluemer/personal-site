@@ -1,6 +1,6 @@
 ---
 title: Beginning a Journey into Spaced Repetition
-slug: beginning-a-journey-into-spaced-repition
+slug: beginning-a-journey-into-spaced-repetition
 date: 2020-04-19T02:00:36.000Z
 ---
 

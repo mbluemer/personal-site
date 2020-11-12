@@ -1,7 +1,7 @@
 ---
 title: "Moving My Blog to AWS"
-date: 2020-11-12T20:18:12-05:00
 slug: publishing-blog-on-aws
+date: 2020-11-12T20:18:55.000Z
 ---
 
 Every month, like clockwork, I'd get a charge to my credit card for $10, a torturous drop to remind me of this, this website, the personal blog that I perennially re-design and post my commitment to filling it with words, but ultimately abandon, like the tulip that didn't make it through the spring frost. Or maybe more like an ugly weed. we'll never quite know until it peaks its head through.
